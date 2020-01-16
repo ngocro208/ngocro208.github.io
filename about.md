@@ -4,6 +4,7 @@ author_profile: true
 title: About
 toc: true
 date:  2020-01-16 11:30:33 +0700
+permalink: /about/
 ---
 
 
