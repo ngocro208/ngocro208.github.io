@@ -1,8 +1,22 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: default
+title:  "Welcome to Jekyll! 11"
 date:   2020-01-09 15:14:50 +0700
-categories: jekyll update
+author_profile: true
+share: true
+toc: true
+read_time: true
+tags:
+  - 8BIT
+  - alignment
+  - Articles
+  - captions
+  - categories
+  - chat
+  - comments
+  - content
+  - css
+  - dowork
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
