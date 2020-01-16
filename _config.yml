@@ -12,7 +12,7 @@ description: Web Developer from Somewhere
 avatar: https://avatars2.githubusercontent.com/u/33742348?s=460&v=4
 paginate: 8
 paginate_path: "/page:num/"
-
+logo_path: "/assets/images/favicon.ico"
 
 category_archive:
   type: liquid
