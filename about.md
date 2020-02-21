@@ -14,7 +14,7 @@ Learning new languages and technologies is what I am passionate about.
 
 I like helping other and work well with group. I can also do some mentoring tasks and code reviewing for other members.
 
-You guys can download my CV [Here](../docs/Ro-Ngoc Vo-CV.pdf "Ro's CV")
+You guys can download my CV [Here](../docs/VoNgocRo_CV.pdf "Ro's CV")
 
 # EDUCATION
 
